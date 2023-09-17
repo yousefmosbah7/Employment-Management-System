@@ -4,8 +4,8 @@
   <title>Employee Management System</title>
 </head>
 <body>
-  <h1>Employee Management System</h1>
-
+  <h1>1. Employee Management System</h1>
+  <h1>2. Employee data need to be maintained in any company. Each company has an employee with a unique employee id, etc. All of this data is maintained in a system employee management system, where all the data about each employee is stored we can fetch, update and add data to this system. Using C we can create an employee management system that can perform all these tasks, using basic C knowledge like string, array, etc.</h1>
   <h2>1. Build the Employee Table</h2>
   <!-- Code for displaying the employee table -->
 
