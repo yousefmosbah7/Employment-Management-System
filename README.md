@@ -1,14 +1,28 @@
-Employee data need to be maintained in any company. Each company has an employee with a unique employee id,  etc.
-All of this data is maintained in a system employee management system,
-where all the data about each employee is stored we can fetch,
-update and add data to this system.
-Using C we can create an employee management system that can perform all these tasks, using basic C knowledge like string, array, etc.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Employee Management System</title>
+</head>
+<body>
+  <h1>Employee Management System</h1>
 
-The functionality of the Employee Management System is mentioned below:
+  <h2>1. Build the Employee Table</h2>
+  <!-- Code for displaying the employee table -->
 
-1-Built The Employee Table.
-2-Insert New Entries.
-3-Search for employee by his name.
-4-Search for employee by his id
-5-calculating employee net salary including deductions,bonus,over time hours and tasks by a mathematical operation.
-6-Delete The Entries.
+  <h2>2. Insert New Entries</h2>
+  <!-- Code for a form to add new employee entries -->
+
+  <h2>3. Search for employee by name</h2>
+  <!-- Code for a search form to find employees by their name -->
+
+  <h2>4. Search for employee by ID</h2>
+  <!-- Code for a search form to find employees by their ID -->
+
+  <h2>5. Calculate Employee Net Salary</h2>
+  <!-- Code for a form to calculate net salary including deductions, bonus, overtime hours, etc. -->
+
+  <h2>6. Delete Entries</h2>
+  <!-- Code for a form or button to delete employee entries -->
+
+</body>
+</html>
