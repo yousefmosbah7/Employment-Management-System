@@ -18,7 +18,7 @@
   <h2>4. Search for employee by ID</h2>
   <!-- Code for a search form to find employees by their ID -->
 
-  <h2>5. Calculate Employee Net Salary</h2>
+  <h2> 5. calculating employee net salary including deductions,bonus,over time hours and tasks by a mathematical operation</h2>
   <!-- Code for a form to calculate net salary including deductions, bonus, overtime hours, etc. -->
 
   <h2>6. Delete Entries</h2>
