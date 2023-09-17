@@ -78,9 +78,12 @@ int main(){
             printf("-------------------------\n\n");
         }else{
             uint32 num_id;
-            printf("\nEnter the id of the employee you want to delete: ");
-            scanf("%d",&num_id);
-            delete_employeeid(employee,num_id);
+            printf("\nEnter the id of the employee you want to search about: ");
+            while (scanf("%d", &num_id) != 1) {
+            while (getchar() != '\n');
+            printf("\nInvalid input. Please enter an integer: ");
+            }
+            search_employeeid(employee,num_id);
         }
     }
     else if(option==6){
